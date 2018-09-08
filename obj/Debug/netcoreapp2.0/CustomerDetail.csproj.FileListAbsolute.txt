@@ -1,0 +1,10 @@
+F:\ZPractice\CustomerDetail\bin\Debug\netcoreapp2.0\CustomerDetail.deps.json
+F:\ZPractice\CustomerDetail\bin\Debug\netcoreapp2.0\CustomerDetail.runtimeconfig.json
+F:\ZPractice\CustomerDetail\bin\Debug\netcoreapp2.0\CustomerDetail.runtimeconfig.dev.json
+F:\ZPractice\CustomerDetail\bin\Debug\netcoreapp2.0\CustomerDetail.dll
+F:\ZPractice\CustomerDetail\bin\Debug\netcoreapp2.0\CustomerDetail.pdb
+F:\ZPractice\CustomerDetail\obj\Debug\netcoreapp2.0\CustomerDetail.csproj.CoreCompileInputs.cache
+F:\ZPractice\CustomerDetail\obj\Debug\netcoreapp2.0\CustomerDetail.AssemblyInfoInputs.cache
+F:\ZPractice\CustomerDetail\obj\Debug\netcoreapp2.0\CustomerDetail.AssemblyInfo.cs
+F:\ZPractice\CustomerDetail\obj\Debug\netcoreapp2.0\CustomerDetail.dll
+F:\ZPractice\CustomerDetail\obj\Debug\netcoreapp2.0\CustomerDetail.pdb
